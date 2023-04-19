@@ -1,0 +1,12 @@
+h1#titulo{
+    background-color:rgb(181,178,178);
+}
+p{
+    padding: 5px;
+    margin: 0px;}
+p#catorce{
+    background-color: rgb(56, 136, 240);}
+p#trece{
+    background-color: rgb(150, 167, 10);}
+p#doce{
+    background-color: rgb(140, 221, 248);}
